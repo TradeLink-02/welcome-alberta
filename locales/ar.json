@@ -1,0 +1,11 @@
+﻿{
+  "common": {
+    "continue": "[TRANSLATE]",
+    "back": "[TRANSLATE]",
+    "markDone": "[TRANSLATE]",
+    "offline": "[TRANSLATE]",
+    "skip": "[TRANSLATE]",
+    "loading": "[TRANSLATE]"
+  },
+  "_note": "Translation pending — falls back to English until complete."
+}
