@@ -52,9 +52,6 @@ export default function TabLayout() {
           tabBarIcon: ({ color }) => <TabIcon name="gear" color={color} />,
         }}
       />
-      {/* Hide template screens from tabs */}
-      <Tabs.Screen name="index" options={{ href: null }} />
-      <Tabs.Screen name="two" options={{ href: null }} />
     </Tabs>
   );
 }
